@@ -506,7 +506,7 @@ button {
 }
 
 .form-control {
-    border-color: rgba(0, 0, 0, .1);
+    border-color:rgb(11, 11, 68);
     box-shadow: none;
 }
 
@@ -781,9 +781,12 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: #F3976C!important;
 }
 
+.tc-other {
+    color: white!important;
+}
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
