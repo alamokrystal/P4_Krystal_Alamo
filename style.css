@@ -40,7 +40,8 @@ a:hover {
 
 .bloc .container {
     padding-left: 0;
-    padding-right: 0;
+    padding-right: 0;  
+   
 }
 .bloc-lg {
     padding: 100px 50px;
@@ -78,9 +79,9 @@ a:hover {
     position: absolute;
     font-size:50px;
 }
-.texture-paper::before {
-    background: url("img/texture-paper.png");
-    background-size: 280px 280px;
+/* .texture-paper::before { */
+    /* background: url("img/texture-paper.png"); */
+    /* background-size: 280px 280px; */
 }
 .b-parallax {
     background-attachment: fixed;
@@ -245,6 +246,18 @@ a:hover {
 #bloc-2-services p {
     font-size: 11px;
 }
+.blue-block{
+ background-color: #364577;
+}
+
+.orange-block{
+    background-color: orangered;
+}
+
+.quote-text, #quote{
+    font-size: 24px !important;
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
